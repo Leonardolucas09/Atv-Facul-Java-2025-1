@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Funcionario
+comment1.params=nome\ salario\ numeroDependentes
+comment1.target=Funcionario(java.lang.String,\ double,\ int)
+comment2.params=nome\ numeroDependentes
+comment2.target=Funcionario(java.lang.String,\ int)
+comment3.params=aumento
+comment3.target=void\ aumentaSalario(double)
+comment4.params=
+comment4.target=void\ exibeDados()
+comment5.params=nome
+comment5.target=void\ setNome(java.lang.String)
+comment6.params=salario
+comment6.target=void\ setSalario(double)
+comment7.params=numeroDependentes
+comment7.target=void\ setNumeroDependentes(int)
+numComments=8
