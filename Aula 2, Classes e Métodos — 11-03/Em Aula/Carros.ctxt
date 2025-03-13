@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Carros
+comment1.params=placa\ consumoMedio
+comment1.target=Carros(java.lang.String,\ double)
+comment2.params=
+comment2.target=void\ exibeCarros()
+numComments=3
