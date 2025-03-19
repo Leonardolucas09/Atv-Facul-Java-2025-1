@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Caneta
+comment1.params=cor
+comment1.target=void\ setCor(java.lang.String)
+comment2.params=marca
+comment2.target=void\ setMarca(java.lang.String)
+comment3.params=preco
+comment3.target=void\ setPreco(double)
+comment4.params=ponta
+comment4.target=void\ setPonta(java.lang.String)
+comment5.params=cor\ marca\ ponta
+comment5.target=Caneta(java.lang.String,\ java.lang.String,\ java.lang.String)
+comment6.params=
+comment6.target=void\ exibeCaneta()
+numComments=7

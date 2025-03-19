@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Retangulo
+comment1.params=base\ altura\ area
+comment1.target=Retangulo(double,\ double,\ double)
+comment2.params=base
+comment2.target=void\ setBase(double)
+comment3.params=altura
+comment3.target=void\ setAltura(double)
+comment4.params=
+comment4.target=void\ exibeRetangulo()
+numComments=5

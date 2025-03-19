@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Circulo
+comment1.params=raio
+comment1.target=Circulo(double)
+comment1.text=public\ void\ setRaio(double\ raio){\r\n\ \ \ \ \ \ \ \ this.raio\ \=\ raio;\r\n}
+numComments=2
