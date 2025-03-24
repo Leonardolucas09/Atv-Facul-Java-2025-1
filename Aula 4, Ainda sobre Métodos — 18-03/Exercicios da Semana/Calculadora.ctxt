@@ -2,4 +2,10 @@
 comment0.target=Calculadora
 comment1.params=valor1\ valor2
 comment1.target=double\ somar(double,\ double)
-numComments=2
+comment2.params=valor1\ valor2
+comment2.target=double\ subtrair(double,\ double)
+comment3.params=valor1\ valor2
+comment3.target=double\ multiplicar(double,\ double)
+comment4.params=valor1\ valor2
+comment4.target=double\ dividir(double,\ double)
+numComments=5

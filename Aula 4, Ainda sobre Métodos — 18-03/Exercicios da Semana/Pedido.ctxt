@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Pedido
+comment1.params=
+comment1.target=Pedido()
+comment2.params=valorUnitario\ qtd
+comment2.target=void\ adicionarItem(double,\ int)
+comment3.params=
+comment3.target=double\ getValorTotal()
+comment4.params=
+comment4.target=int\ getTotalItens()
+comment5.params=
+comment5.target=void\ imprimirResumoConta()
+numComments=6

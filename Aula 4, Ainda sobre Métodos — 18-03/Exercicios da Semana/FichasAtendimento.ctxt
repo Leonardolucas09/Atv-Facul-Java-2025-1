@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=FichasAtendimento
+comment1.params=
+comment1.target=void\ adicionarCliente()
+comment2.params=
+comment2.target=void\ atenderCliente()
+comment3.params=
+comment3.target=int\ getQtdClientes()
+comment4.params=
+comment4.target=boolean\ verificarFilaVazia()
+comment5.params=
+comment5.target=void\ imprimeTamanhoFila()
+numComments=6

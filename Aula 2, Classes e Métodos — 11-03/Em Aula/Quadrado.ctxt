@@ -1,7 +1,0 @@
-#BlueJ class context
-comment0.target=Quadrado
-comment1.params=lado
-comment1.target=void\ setLado(int)
-comment2.params=
-comment2.target=void\ exibeLado()
-numComments=3
