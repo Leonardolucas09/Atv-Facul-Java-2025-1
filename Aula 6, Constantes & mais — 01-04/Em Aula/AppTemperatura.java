@@ -4,7 +4,7 @@ public class AppTemperatura {
         System.out.println("Digite 'C' se deseja converter uma temperatura em graus Celsius ou que informe 'F' se a conversão é para Fahrenheit.");
         String escolha = t.leString("Faça sua escolha... ");
 
-        ConversorTemperatura ct = new ConversorTemperatura();
+        // ConversorTemperatura ct = new ConversorTemperatura();
 
         if (escolha.equalsIgnoreCase("C")) {
             double tempF = t.leDouble("\nInforme a temperatura atual em Celsius: ");
